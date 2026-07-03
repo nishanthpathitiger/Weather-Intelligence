@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "An intelligent, high-fidelity weather planner featuring interactive SVG charts, 7-day forecast matrix, and personalized travel recommendations powered by Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
